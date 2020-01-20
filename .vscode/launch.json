@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/Dictionary.js"
+            "program": "${workspaceFolder}/HashTable.js"
         }
     ]
 }
